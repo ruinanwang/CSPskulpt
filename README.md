@@ -6,7 +6,12 @@ Skulpt is a Javascript implementation of Python 2.x.  Python that runs in your b
 
 [![Build Status](https://travis-ci.org/skulpt/skulpt.png)](https://travis-ci.org/skulpt/skulpt)
 
-## What we have changed
+## What we have changed for StudentCSP
+
+* Added "soundx" module in src-lib, including _init_.js, sample.js, soundx.js 
+* Added soundy.js and sound.js to src-lib for debugging purposes
+* Issues with linking soundy.js and sample.js
+* Issues with goog dependency
 
 ## Origins
 
